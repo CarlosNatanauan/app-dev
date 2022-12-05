@@ -7,7 +7,7 @@
 
 ## My Favorite Series
 
-| Movie Title | Genre | Description |
+| Series Title | Genre | Description |
 | ----------- | ----------- | ----------- |
 | Sherlock | Crime | [Click me](https://www.imdb.com/title/tt1475582/) |
 | You | Psychological thriller  | [Click me](https://www.imdb.com/title/tt7335184/) |
