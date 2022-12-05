@@ -5,6 +5,16 @@
 
 # Hello, I'm Carlos Nice to meet you!
 
+
+## My Favorite Anime is Black Clover
+## You can watch it [here](https://animixplay.to/v1/black-clover-tv)
+
+![blackclover](https://user-images.githubusercontent.com/94023674/205561545-74a0a398-c7b5-457e-98eb-620bc878a39a.jpeg)
+
+Black Clover is a Japanese manga series written and illustrated by **Yūki Tabata**. It has been serialized in Shueisha's shōnen manga magazine **Weekly Shōnen Jump** since February 2015, with its chapters collected in 33 tankōbon volumes as of November 2022. The story follows Asta, a young boy born without any magic power.
+
+---
+
 ## My Favorite Series
 
 | Series Title | Genre | Description |
